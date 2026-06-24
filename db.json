@@ -1,0 +1,60 @@
+{
+  "users": [],
+  "entries": [],
+  "quotes": [
+    {
+      "text": "The journal is a vehicle for mindful reflection, where the raw material of life is shaped into understanding.",
+      "author": "Kendra Cherry"
+    },
+    {
+      "text": "We do not learn from experience... we learn from reflecting on experience.",
+      "author": "John Dewey"
+    },
+    {
+      "text": "Keep a diary, and one day your diary will keep you.",
+      "author": "Mae West"
+    },
+    {
+      "text": "Your journal is a safe harbor. Write with honesty, without judgment or evaluation.",
+      "author": "Serene Guide"
+    },
+    {
+      "text": "Journaling is like whispering to one's self and listening at the same time.",
+      "author": "Mina Murray"
+    },
+    {
+      "text": "In the journal I do not just express myself more openly than I could to any person; I create myself.",
+      "author": "Susan Sontag"
+    },
+    {
+      "text": "The act of writing is the first step toward making your thoughts real.",
+      "author": "Unknown"
+    }
+  ],
+  "templates": [
+    {
+      "id": "morning",
+      "name": "Morning Gratitude ☀️",
+      "description": "Start your day with positive energy and intentional plans.",
+      "placeholder": "What are you grateful for today?\n1. \n2. \n3. \n\nWhat would make today great?\n...\n\nDaily affirmation:\nI am..."
+    },
+    {
+      "id": "reflection",
+      "name": "Evening Reflection 🌙",
+      "description": "Examine your day, process achievements, and release any stress.",
+      "placeholder": "Today's highlights (What went well?):\n- \n\nWhat could have been better or what did I learn?\n- \n\nHow is my spirit/energy level tonight?\n- \n\nOne thing I want to release before sleep:\n- "
+    },
+    {
+      "id": "goals",
+      "name": "Goal Builder 🎯",
+      "description": "Map out goals, identify obstacles, and define actionable steps.",
+      "placeholder": "My Main Goal:\n- \n\nWhy this goal is essential to me:\n- \n\nActionable steps for today / this week:\n1. \n2. \n3. \n\nPotential obstacles & how I will overcome them:\n- "
+    },
+    {
+      "id": "mental_health",
+      "name": "Worry Release 🌧️",
+      "description": "Deconstruct anxieties, categorize control, and calm your mind.",
+      "placeholder": "What is current triggering my anxiety / worry?\n- \n\nIs this worry within my direct control? (Yes/No & Why)\n- \n\nBest-case scenario if it happens:\n- \n\nEmpathetic advice I'd give a friend facing this same worry:\n- "
+    }
+  ]
+}

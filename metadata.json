@@ -1,0 +1,6 @@
+{
+  "name": "Serene Journal",
+  "description": "An elegant, premium digital journaling platform for tracking moods, managing thoughts, and receiving personalized AI reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
